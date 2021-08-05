@@ -74,4 +74,4 @@ def open_file_emails():
     except:
         print(f'[-] Not Found File {name_file}')
         exit(0)
-open_file_emails()
+open_file_emails(jdndjjdjd@gmail.com jdjfbf@gmail.com)
